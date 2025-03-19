@@ -1,2 +1,2 @@
-# CONVERT_TO_KMZ
+# PICTURE VIEWER
 Convertidor imágenes georeferenciadas a kmz
