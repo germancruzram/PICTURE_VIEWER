@@ -3,7 +3,9 @@
 
 ![PICTURE VIEWER](https://github.com/germancruzram/PICTURE_VIEWER/blob/main/PICTURE_VIEWER.png?raw=true)
 
-PICTURE VIEWER es una aplicación de escritorio desarrollada en Python que permite visualizar imágenes JPG con datos de georreferenciación (GPS) incrustados en sus metadatos EXIF. La aplicación extrae las coordenadas geográficas y muestra las imágenes en un mapa interactivo, creando una experiencia similar a la visualización de archivos KMZ.
+PICTURE VIEWER es una aplicación de escritorio desarrollada en Python que permite visualizar imágenes JPG con datos de georreferenciación (GPS) incrustados en sus metadatos EXIF. La aplicación extrae las coordenadas geográficas y muestra las imágenes en un mapa interactivo, creando una experiencia similar a la visualización de archivos KMZ. 
+
+Link de descarga :https://github.com/germancruzram/PICTURE_VIEWER/releases/download/PICTURE_VIEWER/PICTURE.VIEWER.v1.0.zip
 
 ## ✨ Características principales
 
