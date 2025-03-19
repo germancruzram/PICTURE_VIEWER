@@ -1,2 +1,2 @@
 # PICTURE VIEWER
-Convertidor imágenes georeferenciadas a kmz
+Visor de imagenes JPG georeferenciadas
